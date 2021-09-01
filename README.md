@@ -10,3 +10,5 @@ The data is quite unstructured so there are certain things were took care-of bef
 (b) Text to Sequence Conversion 
 
 A Seq2Seq model requires that we convert both the input and the output sentences into integer sequences of fixed length.
+
+Editor: Google Colab
